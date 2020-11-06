@@ -13,6 +13,7 @@
   "dependencies": {
     "execution-time": "^1.4.1",
     "express": "^4.17.1",
+    "benchmark": "^2.1.4",
     "systeminformation": "^4.27.10"
   },
   "devDependencies": {
